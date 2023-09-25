@@ -218,6 +218,10 @@ div.image-switch:hover {
   background: #4d064e;
   cursor: pointer;
 }
+.intro-section-left button a {
+  text-decoration: none;
+  color: #FFF;
+}
 
 .intro-section-right{
   width: 30%;
@@ -377,6 +381,11 @@ form label {
 .fifth-section button:hover {
   background: #710b73;
   cursor: pointer;
+}
+
+.fifth-section button a {
+  text-decoration: none;
+  color: #FFF;
 }
 
 .fifth-section h4 {
